@@ -1,0 +1,46 @@
+.main{
+    background-color: rgb(245, 239, 231);
+    border-radius: 1%;
+    width: 90%;
+    padding: 20px;
+    margin: 2%;
+}
+.child{
+    display: inline-block;
+    border-radius: 1%;
+    background-color: rgb(255, 255, 255);
+    width: 300px;
+    padding: 9px;
+    margin: 10px;
+}
+img{
+    width: 100%;
+}
+.header{
+    /* border: 2px solid black; */
+}
+.child1{
+    /* border: 1px solid black; */
+    display: inline-block;
+    width: 44%;
+}
+.bi{
+    font-size: 35px;
+}
+.child2{
+    width: 51%;
+    display: inline-block;
+}
+.child3{
+    display: inline-block;
+}
+*{
+    border-radius: 1%;
+    /* background-color: antiquewhite; */
+}
+h3,p{
+    background-color: aliceblue;
+}
+h3{
+    align-self: center;
+}

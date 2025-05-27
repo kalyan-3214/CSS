@@ -1,0 +1,11 @@
+
+*{
+
+    background-color: rgb(206, 234, 241);
+} 
+.body1{
+    border: 5px solid green;
+    border-radius: 10px;
+    background-color: rgb(204, 248, 247);
+    padding-left: 20px;
+}

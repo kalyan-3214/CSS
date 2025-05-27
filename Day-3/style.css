@@ -1,0 +1,51 @@
+.header{
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
+.items{
+    display: inline-block;
+    position: fixed;
+    top: 0px;
+}
+.items1{
+    position: absolute;
+    left: 0px;
+}
+.items2{
+    padding: 10px;
+    position: absolute;
+    right: 154px;
+}
+.items3{
+    padding: 10px;
+    position: absolute;
+    right: 84px;
+}
+.items4{
+    padding: 10px;
+    position: absolute;
+    right: 4px;
+}
+.item{
+    /* border: 1px solid black; */
+    display: inline-block;
+    width: 24.5%;
+    position: relative;
+}
+.container{
+    padding: 30px;
+    /* border: 1px solid; */
+    margin-top: 100px;
+}
+img{
+    width: 100%;
+}
+.container h3{
+    padding: 5px;
+    background-color: black;
+    color: aliceblue;
+    position: absolute;
+    top: 0px;
+    margin: 0px;
+}
