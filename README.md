@@ -6,10 +6,10 @@ Follow along to see the progress and explore the evolving styles!
 
 ## 📅 Day-wise Tasks
 
-- [Day 1](https://kalyan-3214.github.io/CSS/Day-1/)
-- [Day 2](https://kalyan-3214.github.io/CSS/Day-2/)
-- [Day 3](https://kalyan-3214.github.io/CSS/Day-3/)
-- [Day 4](https://kalyan-3214.github.io/CSS/Day-4/)
+- [Day 1 - Resume](https://kalyan-3214.github.io/CSS/Day-1/)
+- [Day 2 - Food Blog](https://kalyan-3214.github.io/CSS/Day-2/)
+- [Day 3 - BR Architects](https://kalyan-3214.github.io/CSS/Day-3/)
+- [Day 4 - Whatsapp](https://kalyan-3214.github.io/CSS/Day-4/)
 <!-- - [Day 5](https://kalyan-3214.github.io/CSS/Day-5/) -->
 
 Stay tuned for more updates. Happy coding! 🎨✨

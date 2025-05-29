@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Combinators</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+        <h2>DECENT COMBINATOR</h2>
+    <div class="decent-combinators">
+        <p>Decent Combinators indicates with space(" ")</p>
+        <span class="indirect">
+            <p>I am Indirect Child, if you apply styling using decent-combinators it will effect me.</p>
+        </span>
+    </div>
+        <h2>CHILD COMBINATOR</h2>
+    <div class="child-combinator">
+        <p>Child Combinator indicates with right angular braces (">")</p>
+        <span class="indirect">
+            <p>I am indirect Child, if you apply styling to &lt;p> using child selector, it won't effect me.</p>
+        </span>
+    </div>
+            <h2>ADJACENT SIBLING COMBINATOR</h2>
+    <div class="Adjacent-sibling-combinator">
+        <p>Adjacent Sibling Combinator indicates with plus symbol ("+")</p>
+        <span class="indirect">
+            <p>It won't effect me </p>
+        </span>
+        <p>It won't effects it's child, but it effects if the specified tag is it's 1st neighbour.</p>
+        <p>if it is not Immediate neighbour then it won't effected by styling.</p>
+        <p><b>Sibling means which comes after the container, not before.</b></p>
+    </div>
+    <!-- <b>hi</b> -->
+    <p>If above tag is not in comments, the styling will effect me ...(above a strong element is in comments)</p>
+    <h2>GENERAL SIBLING COMBINATOR</h2>
+    <div class="General-sibling-combinator">
+        <p>General sibling Combinator indicates with tild symbol ("~")</p>
+        <span class="indirect">
+            <p>It won't effect me </p>
+        </span>
+        <p>It won't effects it's child, but it effects if the specified tag is it's neighbour.</p>
+        <p>It won't care if the specified element is it's first / second neighbour, if it is it's neighbour it will be effected by it's styling.</p>
+    </div>
+    <s>even  if i am in middle it won't matters.</s>
+    <p>I am 2nd neighbour</p>
+    <p>I am 3rd neighbour</p>
+</body>
+</html>

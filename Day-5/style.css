@@ -1,0 +1,30 @@
+.decent-combinators p{
+    background-color: antiquewhite;
+}
+.decent-combinators{
+    border: 1px solid;
+}
+.child-combinator{
+        border: 1px solid;
+
+}
+.Adjacent-sibling-combinator{
+        border: 1px solid;
+
+}
+.General-sibling-combinator{
+        border: 1px solid;
+
+}
+.child-combinator>p{
+    background-color: aqua;
+}
+.Adjacent-sibling-combinator+p{
+    background-color: aquamarine;
+}
+ .General-sibling-combinator~p{
+    background-color: cornsilk;
+ }
+ h2{
+    color: red;
+ }
