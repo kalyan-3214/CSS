@@ -19,7 +19,7 @@ Want to see more of my CSS experiments and daily uploads? Check out the full rep
 - [Day 7 - Zoom Board](https://kalyan-3214.github.io/CSS/Day-7/)
 
 
-## 📂 Repository Structure
+<!-- ## 📂 Repository Structure
 
 Here’s how the files and folders are organized in this project:
 CSS/|---Day-1/ 
@@ -49,7 +49,7 @@ CSS/|---Day-1/
     |---Day-7 
     | |---index.html 
     | |---style.css 
-    └── README.md
+    └── README.md -->
 
 Each day's folder contains an `index.html` file for the structure and a `styles.css` file for styling (and extra files if needed).
 
