@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border: 2px solid;
+    flex-direction: column;
+    display: flex;
+    padding: 10px;
+    /* height: 400px; */
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: center;
+    color: aliceblue;
+    /* border: 5px solid rgb(255, 0, 0); */
+    margin-top: 200px;
+    
+}
+.main{
+    display: flex;
+    background-color: black;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    gap: 4px;
+    justify-content: center;
+    flex-grow: 1;
+    margin-left: 5%;
+    margin-right: 5%;
+    flex-shrink: 0;
+}
+.second{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-grow: 1;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.item{
+    /* display: flex; */
+    margin: 10px;
+    padding: 20px;
+    flex-basis: 5px;
+    border-radius: 10px;
+    /* border: 2px solid white; */
+}
+.main p{
+    font-size: 0.8rem;
+}
+.bi-chevron-down{
+    position: absolute; 
+    font-size: 0.6rem;
+}
+.bi-mic-mute{
+    /* position: relative; */
+    margin-left: 1px;
+    margin-right: 2px;
+    font-size: 1.4rem;
+}
+.bi-camera-video-off{
+    margin-left: 0px;
+    margin-right: 3px;
+    font-size: 1.4rem;
+}
+.bi-people{
+    margin-left: 19px;
+    margin-right: 13px;
+    font-size: 1.4rem;
+}
+.bi-chat-left-dots{
+    margin-left: -3px;
+    margin-right: 3px;
+    font-size: 1.4rem;
+}
+.bi-arrow-up-square-fill{
+    color: rgb(0, 255, 0);
+    margin-left: 0px;
+    margin-right: 5px;
+    font-size: 1.4rem;
+}
+.bi-pause-fill{
+    margin-left: 5px;
+    font-size: 1.4rem;
+}
+.bi-pencil{
+    margin-left: 10px;
+    font-size: 1.4rem;
+}
+.bi-us{
+    margin-left: -28px;
+    font-size: 1.4rem;
+}
+.bi-person-video3{
+    margin-left: 25px;
+    font-size: 1.4rem;
+}
+.bi-circle{
+    margin-left: 5px;
+    font-size: 1.4rem;
+}
+.bi-three-dots{
+    margin-left: -26px;
+    font-size: 1.1rem;
+}
+.show-meeting{
+    margin-top: 20px;
+    padding: 10px;
+    flex-basis: 100px;
+    
+}
+.second1{
+    background-color: rgb(0, 255, 0);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    border-bottom-left-radius: 10px;
+    padding: 10px;
+}
+.second1h{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.second2{
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border-bottom-right-radius: 10px;
+}
+.item:hover{
+    background-color: rgba(255, 255, 255, 0.678);
+}
+.second i:hover{
+    background-color: rgba(255, 255, 255, 0.678);
+}
