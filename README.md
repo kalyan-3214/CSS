@@ -22,7 +22,34 @@ Want to see more of my CSS experiments and daily uploads? Check out the full rep
 ## 📂 Repository Structure
 
 Here’s how the files and folders are organized in this project:
-CSS/|---Day-1/ | |---index.html | |---style.css |---Day-2/ | |---index.html | |---style.css |---Day-3 | |---index.html | |---style.css |---Day-4 | |---index.html | |---style.css |---Day-4 | |---index.html | |---style.css |---Day-5 | |---index.html | |---style.css |---Day-6 | |---drink.html | |---eat.html | |---index.html | |---reservation.html | |style.css |---Day-7 | |---index.html | |---style.css └── README.md
+CSS/|---Day-1/ 
+    | |---index.html 
+    | |---style.css 
+    |---Day-2/ 
+    | |---index.html 
+    | |---style.css 
+    |---Day-3 
+    | |---index.html 
+    | |---style.css 
+    |---Day-4 
+    | |---index.html 
+    | |---style.css 
+    |---Day-4 
+    | |---index.html 
+    | |---style.css 
+    |---Day-5 
+    | |---index.html 
+    | |---style.css 
+    |---Day-6 
+    | |---drink.html 
+    | |---eat.html 
+    | |---index.html 
+    | |---reservation.html 
+    | |style.css 
+    |---Day-7 
+    | |---index.html 
+    | |---style.css 
+    └── README.md
 
 Each day's folder contains an `index.html` file for the structure and a `styles.css` file for styling (and extra files if needed).
 
