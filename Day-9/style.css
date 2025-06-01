@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.chess{
+    margin: 5%;
+    /* border:3px solid; */
+    display: flex;
+    flex-direction: column;
+    display: none;
+}
+.rows{
+    display: flex;
+}
+.box{
+    width: 80px;
+    height: 80px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+/* Black colour shade */
+
+.row1>div:nth-child(even){
+    background-color: black;
+}
+.row2>div:nth-child(odd){
+    background-color: black;
+}
+.row3>div:nth-child(even){
+    background-color: black;
+}
+.row4>div:nth-child(odd){
+    background-color: black;
+}
+.row5>div:nth-child(even){
+    background-color: black;
+}
+.row6>div:nth-child(odd){
+    background-color: black;
+}
+.row7>div:nth-child(even){
+    background-color: black;
+}
+.row8>div:nth-child(odd){
+    background-color: black;
+}
+
+/* White colour shade */
+
+.row1>div:nth-child(odd){
+    background-color: whitesmoke;
+}
+.row2>div:nth-child(even){
+    background-color: whitesmoke;
+}
+.row3>div:nth-child(odd){
+    background-color: whitesmoke;
+}
+.row4>div:nth-child(even){
+    background-color: whitesmoke;
+}
+.row5>div:nth-child(odd){
+    background-color: whitesmoke;
+}
+.row6>div:nth-child(even){
+    background-color: whitesmoke;
+}
+.row7>div:nth-child(odd){
+    background-color: whitesmoke;
+}
+.row8>div:nth-child(even){
+    background-color: whitesmoke;
+}
+/* Chess Coins */
+/* White Coins*/
+.row2 p{
+    font-size: 3rem;
+    color: aqua;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(137, 143, 159);
+}
+.row1 p{
+    font-size: 3rem;
+    color: aqua;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(137, 143, 159);
+}
+/* Black Coins */
+.row7 p{
+    font-size: 3rem;
+    color: rgb(0, 26, 255);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(125, 151, 151);
+}
+.row8 p{
+    font-size: 3rem;
+    color: rgb(0, 26, 255);
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(125, 151, 151);
+}
+/* Adding wamt to see or not option */
+.play{
+    margin-top: 4%;
+    display: flex;
+    gap: 10px;
+}
+input{
+    display: none;
+}
+/* Adding condition to display chessboard */
+#yes:checked~ .chess{
+    display: block;
+}

@@ -35,12 +35,12 @@ h2{
 .image:hover{
     background-color: aqua;
 }
-.image:hover>.img{
-    /* display: none; */
-}
+/* .image:hover>.img{
+    display: none;
+} */
 .image:hover>h2{
     color: rgb(255, 255, 255);
-    text-shadow: 10px 10px 6px gray;
+    text-shadow: 10px 10px 5px gray;
     display: block;
     font-size: 2.5rem;
 }
