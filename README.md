@@ -10,15 +10,16 @@ Want to see more of my CSS experiments and daily uploads? Check out the full rep
 
 ## 📅 Day-wise Tasks
 
-- [Day 1 - Resume](https://kalyan-3214.github.io/CSS/Day-1/)
-- [Day 2 - Food Blog](https://kalyan-3214.github.io/CSS/Day-2/)
-- [Day 3 - BR Architects](https://kalyan-3214.github.io/CSS/Day-3/)
-- [Day 4 - Whatsapp](https://kalyan-3214.github.io/CSS/Day-4/)
-- [Day 5 - Combinator Selector Practice](https://kalyan-3214.github.io/CSS/Day-5/)
-- [Day 6 - The Cafe](https://kalyan-3214.github.io/CSS/Day-6/)
-- [Day 7 - Zoom Board](https://kalyan-3214.github.io/CSS/Day-7/)
-- [Day 8 - Transition](https://kalyan-3214.github.io/CSS/Day-8/)
-- [Day 9 - Chess Board](https://kalyan-3214.github.io/CSS/Day-9/)
+- [Day 1 - Resume](https://kalyan-3214.github.io/CSS/Day-01/)
+- [Day 2 - Food Blog](https://kalyan-3214.github.io/CSS/Day-02/)
+- [Day 3 - BR Architects](https://kalyan-3214.github.io/CSS/Day-03/)
+- [Day 4 - Whatsapp](https://kalyan-3214.github.io/CSS/Day-04/)
+- [Day 5 - Combinator Selector Practice](https://kalyan-3214.github.io/CSS/Day-05/)
+- [Day 6 - The Cafe](https://kalyan-3214.github.io/CSS/Day-06/)
+- [Day 7 - Zoom Board](https://kalyan-3214.github.io/CSS/Day-07/)
+- [Day 8 - Transition](https://kalyan-3214.github.io/CSS/Day-08/)
+- [Day 9 - Chess Board](https://kalyan-3214.github.io/CSS/Day-09/)
+- [Day 10 - Tasks](https://kalyan-3214.github.io/CSS/Day-10/)
 
 
 <!-- ## 📂 Repository Structure
