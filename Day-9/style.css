@@ -114,6 +114,6 @@ input{
     display: none;
 }
 /* Adding condition to display chessboard */
-#yes:checked~ .chess{
+#yes:checked+ .chess{
     display: block;
 }
