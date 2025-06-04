@@ -1,0 +1,73 @@
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
+/* Flag styling and rod styling */
+.flag{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.cloth{
+    width: fit-content;
+    height: fit-content;
+}
+.rod,.orange,.white,.green{
+    /* border: 2px solid; */
+}
+.orange,.white,.green{
+    width: 400px;
+    height: 100px;
+    /* margin-left: 10px; */
+}
+.orange{
+    background-color: orange;
+}
+.white{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+.green{
+    background-color: green;
+}
+.rod{
+    width: 5px;
+    height: 600px;
+    background-color: rgba(101, 61, 61, 0.808);
+}
+/* BASE STYLING */
+.base{
+    margin-left: -200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.base3{
+    border-radius: 50%;
+}
+.base2{
+    border-radius: 50%;
+    width: 325px;
+}
+.base1{
+    border-radius: 50%;
+    width: 250px;
+}
+.flat{
+    margin-top: -50px;
+    border-radius: 0px 0px 5px 5px;
+    height: 50px;
+}
+.orangebase{
+    margin-bottom: -50px;
+    z-index: 1;
+}
+.whitebase{
+    margin-bottom: -50px;
+}
+.greenbase{
+    z-index:-1;
+}
