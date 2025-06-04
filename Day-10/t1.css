@@ -1,6 +1,7 @@
 body{
     border: 2px solid black;
     margin-left: 35%;
-    height: 400px;
-    width: 400px;
+    content: '  ';
+    height: 300px;
+    width: 300px; 
 }
