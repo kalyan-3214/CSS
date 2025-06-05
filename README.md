@@ -20,7 +20,8 @@ Want to see more of my CSS experiments and daily uploads? Check out the full rep
 - [Day 8 - Transition](https://kalyan-3214.github.io/CSS/Day-08/)
 - [Day 9 - Chess Board](https://kalyan-3214.github.io/CSS/Day-09/)
 - [Day 10 - Tasks](https://kalyan-3214.github.io/CSS/Day-10/)
-- [Day 1! - India](https://kalyan-3214.github.io/CSS/Day-11/)
+- [Day 11 - India](https://kalyan-3214.github.io/CSS/Day-11/)
+- [Day 11 - Music Animation](https://kalyan-3214.github.io/CSS/Day-12/)
 
 
 <!-- ## 📂 Repository Structure
